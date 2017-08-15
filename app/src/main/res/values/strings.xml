@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Power &amp; Energy Hackathon 2017</string>
+    <string name="title_activity_main_screen">Power Management</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
